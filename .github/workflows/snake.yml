@@ -20,10 +20,6 @@ jobs:
           github_user_name: JPArt22
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # 🎨 Personalización de colores para dark mode
-          color_snake: '#39ff14'           # verde neón
-          color_dots: '#444B51,#3C3F41,#2F3336,#24292E,#0D1117'  # tono oscuro
-          background: 'transparent'
 
       - name: Push to output branch using PAT
         uses: crazy-max/ghaction-github-pages@v3
