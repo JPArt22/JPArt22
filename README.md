@@ -37,13 +37,6 @@
   <img src="https://raw.githubusercontent.com/JPArt22/JPArt22/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JPArt22&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
-</p>
-
 ---
 
 
