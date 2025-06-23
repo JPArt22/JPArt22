@@ -8,18 +8,20 @@
 
 <table>
 <tr>
-<td>
+<th align="center">🧰 Tech Stack</th>
+<th align="center">🛠 Tools & Technologies</th>
+</tr>
 
-### 🧰 Tech Stack
+<tr>
+<td align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,assembly,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,oracle,docker,jenkins,githubactions,git&perline=6" />
 </a>
 
 </td>
-<td>
 
-### 🛠 Tools & Technologies
+<td align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,vscode,intellij,jira,trello,selenium,notion,latex,matlab&perline=6" />
@@ -28,6 +30,9 @@
 </td>
 </tr>
 </table>
+
+</div>
+
 
 ---
 
