@@ -31,24 +31,22 @@
 
 ---
 
-<table>
-<tr>
-<td>
-
 ### 📊 GitHub Stats
 
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&theme=aura&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&hide=prs,issues,contribs"/>
+<details>
+  <summary>Click to expand GitHub Stats 🔽</summary>
 
-</td>
-<td>
+  <div align="center">
 
-### 📈 Top Languages
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&theme=aura&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&hide=prs,issues,contribs"/>
 
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&layout=compact&langs_count=8&theme=aura&hide=html,css" />
+  <br><br>
 
-</td>
-</tr>
-</table>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&layout=compact&langs_count=8&theme=aura&hide=html,css" />
+
+  </div>
+
+</details>
 
 </div>
 
