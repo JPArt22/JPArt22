@@ -6,22 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-dark:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate snake animation dark
         uses: Platane/snk@v3
         with:
           github_user_name: JPArt22
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-light.svg
-          # 🎨 Personalización de colores para dark mode
-          color_snake: '#39ff14'           # verde neón
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          color_snake: '#39ff14'
           color_dots: '#161B22,#0E4429,#006D32,#26A641,#39D353'
           background: '#0D1117'
 
