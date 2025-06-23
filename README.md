@@ -35,13 +35,7 @@
 
 ![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.gif?raw=true)
 
-![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg?raw=true)
-
-![Snake](https://github.com/JPArt22/JPArt22/blob/master/github-contribution-grid-snake.svg)
-
-![Snake animation2](https://raw.githubusercontent.com/JPArt22/JPArt22/main/github-metrics-snake.svg)
 
 
 
