@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/JPArt22/JPArt22/output/github-contribution-grid-snake.svg" />
 </p>
 
+![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ---
 
 ### 📫 Contact
