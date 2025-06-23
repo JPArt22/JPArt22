@@ -31,18 +31,11 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JPart22&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-snake.vercel.app/?user=JPArt22&theme=github-dark&animation_type=snake" />
+
 </p>
 
 ---
