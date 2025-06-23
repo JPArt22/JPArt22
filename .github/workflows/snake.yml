@@ -1,34 +1,26 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-dark:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Clean previous build
-        run: rm -rf dist/
-
-      - name: Generate snake animation dark
-        uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: JPArt22
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-dark.gif
-          color_snake: '#39ff14'
-          color_dots: '#161B22,#0E4429,#006D32,#26A641,#39D353'
-          background: '#0D1117'
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch using PAT
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
