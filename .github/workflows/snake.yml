@@ -6,17 +6,26 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: JPArt22
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          # 🎨 Personalización de colores para dark mode
+          color_snake: '#39ff14'           # verde neón
+          color_dots: '#444B51,#3C3F41,#2F3336,#24292E,#0D1117'  # tono oscuro
+          background: 'transparent'
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch using PAT
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
