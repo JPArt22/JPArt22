@@ -48,11 +48,8 @@
 ![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake-light.svg">
-  <img alt="Snake animation" src="dist/github-contribution-grid-snake-dark.svg">
-</picture>
+![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg?raw=true&v=123456)
+
 
 ---
 
