@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,html,css,latex,matlab,c,mysql,assembly&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,html,css,spring,git,mysql,postgresql,linux,docker,latex,matlab,c,assembly&perline=9" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins,docker,jira,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,jenkins,selenium,jira,figma,postman,vercel,netlify,aws&perline=9" />
   </a>
 </p>
 
@@ -25,8 +25,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=JPart22&show_icons=true&theme=aura&rank_icon=github"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPart22&layout=donut&theme=aura&hide=html,css"/>
+  
+  <!-- GitHub Commits & Stars -->
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&theme=aura&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&hide=prs,issues,contribs"/>
+
+  <!-- Top Languages Horizontal Bars -->
+  <br><br>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&layout=compact&langs_count=8&theme=aura&hide=html,css" />
+
 </div>
 
 ---
@@ -34,12 +40,6 @@
 ### 🐍 Contribution Snake
 
 ![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-
-
-
-
 
 ---
 
