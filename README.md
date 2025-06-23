@@ -39,10 +39,6 @@
 
 ---
 
-
-
----
-
 ### 📫 Contact
 
 - 📩 Email: **jhprieto@unal.edu.co**
