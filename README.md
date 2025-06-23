@@ -41,6 +41,9 @@
 
 ![Snake](https://github.com/JPArt22/JPArt22/blob/master/github-contribution-grid-snake.svg)
 
+![Snake animation2](https://raw.githubusercontent.com/JPArt22/JPArt22/main/github-metrics-snake.svg)
+
+
 
 
 
