@@ -33,22 +33,8 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JPArt22/JPArt22/output/github-contribution-grid-snake.svg" />
-</p>
-
 ![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<p align="center">
-  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<div align="center">
     
-![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg?raw=true&v=123456)
 
 
 ---
