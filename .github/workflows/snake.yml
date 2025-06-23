@@ -22,7 +22,7 @@ jobs:
           # 🎨 Personalización de colores para dark mode
           color_snake: '#39ff14'           # verde neón
           color_dots: '#161B22,#0E4429,#006D32,#26A641,#39D353'
-          background: 'transparent'
+          background: '#0D1117'
 
       - name: Push to output branch using PAT
         uses: crazy-max/ghaction-github-pages@v3
