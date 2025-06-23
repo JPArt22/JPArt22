@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td align="center">
+<td>
 
 ### 🧰 Tech Stack
 
@@ -17,8 +17,7 @@
 </a>
 
 </td>
-
-<td align="center">
+<td>
 
 ### 🛠 Tools & Technologies
 
@@ -29,8 +28,6 @@
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -50,6 +47,8 @@
   </div>
 
 </details>
+
+</div>
 
 ---
 
