@@ -37,7 +37,8 @@
 
 ![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.gif?raw=true)
 
-    
+![Snake animation](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 
 
 ---
