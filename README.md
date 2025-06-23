@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<span>
+<table>
+<tr>
+<td align="center">
 
 ### 🧰 Tech Stack
 
@@ -14,9 +16,9 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,assembly,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,oracle,docker,jenkins,githubactions,git&perline=6" />
 </a>
 
-</span> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- espacio entre columnas -->
-<span>
+</td>
+
+<td align="center">
 
 ### 🛠 Tools & Technologies
 
@@ -24,7 +26,9 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,intellij,jira,trello,selenium,notion,latex,matlab&perline=6" />
 </a>
 
-</span>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -37,17 +41,11 @@
 
   <div align="center">
 
-  <span>
-
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&theme=aura&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&hide=prs,issues,contribs"/>
 
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
+  <br><br>
 
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&layout=compact&langs_count=8&theme=aura&hide=html,css" />
-
-  </span>
 
   </div>
 
