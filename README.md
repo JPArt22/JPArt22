@@ -39,6 +39,10 @@
 
 ![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<p align="center">
+  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ### 📫 Contact
