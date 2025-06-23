@@ -34,9 +34,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/?user=JPArt22&theme=github-dark&animation_type=snake" />
-
+  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
