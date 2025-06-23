@@ -15,9 +15,7 @@ jobs:
           github_user_name: JPArt22
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#39FF14"
-          color_dots: "#00FFFF, #9400D3, #FFD700, #FF69B4, #00FF7F"
-          color_background: "#0d1117"
+          theme: dark
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
