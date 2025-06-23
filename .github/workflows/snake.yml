@@ -8,9 +8,13 @@ on:
 jobs:
   generate-dark:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
+
+      - name: Clean previous build
+        run: rm -rf dist/
 
       - name: Generate snake animation dark
         uses: Platane/snk@v3
