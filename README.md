@@ -42,7 +42,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/JPart22/JPart22/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
