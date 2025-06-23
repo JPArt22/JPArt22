@@ -1,4 +1,4 @@
-name: Metrics Snake Only
+name: Generate Snake Metrics
 
 on:
   schedule:
@@ -9,11 +9,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate snake animation
         uses: lowlighter/metrics@latest
         with:
-          filename: github-contribution-grid-snake.svg
+          filename: github-metrics-snake.svg
           token: ${{ secrets.GH_PAT }}
           user: JPArt22
           base: ""
           plugin_snk: yes
+          plugin_snk_snake_color: "#39ff14"
+          plugin_snk_color: "#161B22,#0E4429,#006D32,#26A641,#39D353"
