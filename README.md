@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,html,css,spring,git,mysql,postgresql,linux,docker,latex,matlab,c,assembly&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,assembly,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,oracle,docker,jenkins,githubactions,git&perline=10" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,jenkins,selenium,jira,figma,postman,vercel,netlify,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,intellij,jira,trello,selenium,notion,latex,matlab&perline=10" />
   </a>
 </p>
 
