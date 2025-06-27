@@ -17,13 +17,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,c,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,docker,jenkins,githubactions,git,github,vscode,idea,phpstorm,selenium,notion,latex,matlab,jira,trello&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,c,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,docker,jenkins,githubactions,git,github,vscode,selenium,notion,latex,matlab,jira,trello&perline=11" />
   </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
+
+<p align="center">
+  <a href="https://github.com/JPArt22">
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&bg_color=00000000&title_color=12876f&text_color=cccccc&icon_color=117a65&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/JPArt22">
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&langs_count=8&hide=HTML&layout=compact&show_icons=true&bg_color=00000000&title_color=12876f&text_color=cccccc&icon_color=117a65&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
 
 <details>
   <summary>Click to expand GitHub Stats 🔽</summary>
