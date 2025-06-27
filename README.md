@@ -13,34 +13,25 @@
 
 ---
 
-<div align="center">
+### 🧰 Tech Stack & Tools
 
-<table>
-<tr>
-<th align="center">🧰 Tech Stack</th>
-<th align="center">🛠 Tools & Technologies</th>
-</tr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,spring,django,html,css,tailwind&perline=10" />
+  </a>
+</p>
 
-<tr>
-<td align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,jenkins,githubactions,git&perline=10" />
+  </a>
+</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,assembly,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,oracle,docker,jenkins,githubactions,git&perline=6" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,intellij,jira,trello,selenium,notion,latex,matlab&perline=6" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,idea,phpstorm,selenium,notion,latex,matlab,jira,trello&perline=10" />
+  </a>
+</p>
 
 
 ---
