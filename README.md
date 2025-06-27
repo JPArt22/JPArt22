@@ -6,6 +6,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
