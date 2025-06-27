@@ -17,22 +17,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,nodejs,spring,django,html,css,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,c,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,docker,jenkins,githubactions,git,github,vscode,idea,phpstorm,selenium,notion,latex,matlab,jira,trello&perline=8" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,jenkins,githubactions,git&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,idea,phpstorm,selenium,notion,latex,matlab,jira,trello&perline=10" />
-  </a>
-</p>
-
 
 ---
 
