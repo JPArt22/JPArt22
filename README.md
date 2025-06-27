@@ -5,9 +5,7 @@
 ---
 
 
-| <div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=transparent&hide_border=true)](https://git.io/streak-stats)</div> |
-|:--:|
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
