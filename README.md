@@ -1,6 +1,13 @@
-# 👋 Hey there! I'm **Jhon Prieto (JPArt22)**
+<h2 align="center">
+  Hey there! I'm Jhon Prieto (JPArt22)
+</h2>
 
-### 🚀 Full-stack developer building web solutions with JavaScript and Node.js, passionate about Python for personal projects, and currently diving deep into Java backend, Spring Boot, CI/CD, and automated testing.
+<pre>
+Full-stack developer building web solutions with JavaScript and Node.js,
+passionate about Python for personal projects, and currently diving deep into
+Java backend, Spring Boot, CI/CD, and automated testing.
+</pre>
+
 
 ---
 
@@ -13,8 +20,6 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,js,c,nodejs,spring,django,html,css,tailwind,mysql,mongodb,sqlite,docker,jenkins,githubactions,git,github,vscode,selenium,notion,latex,matlab,jira,trello&perline=11" />
@@ -22,9 +27,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
 
 <p align="center">
   <a href="https://github.com/JPArt22">
@@ -34,24 +36,6 @@
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&langs_count=8&hide=HTML&layout=compact&show_icons=true&bg_color=00000000&title_color=12876f&text_color=cccccc&icon_color=117a65&hide_border=true&border_radius=10" />
   </a>
 </p>
-
-
-<details>
-  <summary>Click to expand GitHub Stats 🔽</summary>
-
-  <div align="center">
-
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&theme=aura&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&hide=prs,issues,contribs"/>
-
-  <br><br>
-
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPArt22&layout=compact&langs_count=8&theme=aura&hide=html,css" />
-
-  </div>
-
-</details>
-
-</div>
 
 ---
 
