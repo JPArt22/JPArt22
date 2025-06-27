@@ -3,8 +3,9 @@
 ### 🚀 Full-stack developer building web solutions with JavaScript and Node.js, passionate about Python for personal projects, and currently diving deep into Java backend, Spring Boot, CI/CD, and automated testing.
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPArt22&theme=transparent&hide_border=true)](https://git.io/streak-stats)---
+</div>
 ---
 
 <div align="center">
