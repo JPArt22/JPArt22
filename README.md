@@ -65,8 +65,8 @@
 
 ### 🐍 Contribution Snake
 
-![Snake dark](https://github.com/JPArt22/JPArt22/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/JPArt22/JPArt22/blob/output/github-snake-dark.svg)
+| ![snake gif](https://github.com/JPArt22/JPArt22/blob/output/github-snake-dark.svg) |
+|:--:|
 ---
 
 ### 📫 Contact
