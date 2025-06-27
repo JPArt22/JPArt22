@@ -65,8 +65,10 @@
 
 ### 🐍 Contribution Snake
 
-| ![snake gif](https://github.com/JPArt22/JPArt22/blob/output/github-snake-dark.svg) |
-|:--:|
+<p align="center">
+  <img src="https://github.com/JPArt22/JPArt22/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
+
 ---
 
 ### 📫 Contact
