@@ -11,7 +11,9 @@ deep into Java backend, Spring Boot, CI/CD, and automated testing.
 </div>
 
 ---
-### Skills & Technologies
+<h3 align="center">
+  🛠️ Skills & Technologies
+</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,discord,figma,git,github,githubactions,gitlab,gmail,html,idea,instagram,java,jenkins,js,latex,linkedin,markdown,matlab,mongodb,mysql,nodejs,notion,postgres,powershell,py,pycharm,react,selenium,spring,sqlite,ts,twitter,ubuntu,vscode,windows&perline=13" />
@@ -21,7 +23,9 @@ deep into Java backend, Spring Boot, CI/CD, and automated testing.
 
 
 ---
-### Stats
+<h3 align="center">
+  📊 Stats
+</h3>
 <p align="center">
   <a href="https://github.com/JPArt22">
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=JPArt22&show_icons=true&bg_color=00000000&title_color=12876f&text_color=cccccc&icon_color=117a65&hide_border=true&border_radius=10" />
