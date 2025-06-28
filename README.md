@@ -12,9 +12,10 @@ Java backend, Spring Boot, CI/CD, and automated testing.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,discord,figma,git,github,githubactions,gitlab,gmail,html,idea,instagram,java,jenkins,js,latex,linkedin,markdown,matlab,mongodb,mysql,nodejs,notion,postgres,powershell,py,pycharm,react,se,spring,sqlite,ts,twitter,ubuntu,vscode,windows&perline=13" />
+    <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,discord,figma,git,github,githubactions,gitlab,gmail,html,idea,instagram,java,jenkins,js,latex,linkedin,markdown,matlab,mongodb,mysql,nodejs,notion,postgres,powershell,py,pycharm,react,selenium,spring,sqlite,ts,twitter,ubuntu,vscode,windows&perline=13" />
   </a>
 </p>
+
 
 
 ---
