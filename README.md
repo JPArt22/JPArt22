@@ -3,9 +3,7 @@
 </h2>
 
 <pre>
-Full-stack developer building web solutions with JavaScript and Node.js,
-passionate about Python for personal projects, and currently diving deep into
-Java backend, Spring Boot, CI/CD, and automated testing.
+Full-stack developer building web solutions with JavaScript and Node.js, passionate about Python for personal projects, and currently diving deep into Java backend, Spring Boot, CI/CD, and automated testing.
 </pre>
 
 ---
