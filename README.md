@@ -2,9 +2,13 @@
   Hey there! I'm Jhon Prieto (JPArt22)
 </h2>
 
-<pre>
-Full-stack developer building web solutions with JavaScript and Node.js, passionate about Python for personal projects, and currently diving deep into Java backend, Spring Boot, CI/CD, and automated testing.
-</pre>
+<div style="text-align: center;">
+  <pre>
+Full-stack developer building web solutions with JavaScript and Nodejs, 
+passionate about Python for personal projects, and currently diving 
+deep into Java backend, Spring Boot, CI/CD, and automated testing.
+  </pre>
+</div>
 
 ---
 
