@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hey+there!+I'm+Jhon+Prieto+(JPArt22)" alt="Typing SVG" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F1F1F1&center=true&vCenter=true&width=800&height=150&lines=Full-stack+developer+building+web+solutions+with+JavaScript+and+Nodejs%2C+;passionate+about+Python+for+personal+projects%2C+and+currently+diving+;deep+into+Java+backend%2C+Spring+Boot%2C+CI%2FCD%2C+and+automated+testing.)](https://git.io/typing-svg)
+
 <div style="text-align: center;">
   <pre>
 Full-stack developer building web solutions with JavaScript and Nodejs, 
