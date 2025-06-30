@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=00C3CA&center=true&vCenter=true&multiline=true&repeat=false&width=800&separator=%3C&lines=System.out.println(%22Hi%2C+I'm+Jhon+Prieto!%22);)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=F1F1F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Full-stack+developer+building+web+solutions+with+JavaScript+and+Nodejs%2C+;passionate+about+Python+for+personal+projects%2C+and+currently+diving+;deep+into+Java+backend%2C+Spring+Boot%2C+CI%2FCD%2C+and+automated+testing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=F1F1F1&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Full-stack+developer+building+web+solutions+with+JavaScript+and+Nodejs%2C+;passionate+about+Python+for+personal+projects%2C+and+currently+diving+;deep+into+Java+backend%2C+Spring+Boot%2C+CI%2FCD%2C+and+automated+testing.)](https://git.io/typing-svg)
 
 ---
 <h3 align="center">
