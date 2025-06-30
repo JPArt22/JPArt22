@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hey+there!+I'm+Jhon+Prieto+(JPArt22);Full-stack+developer+building+web+solutions;Passionate+about+Python,+Java,+and+automation." alt="Typing SVG" />
+</p>
+
+
 <h2 align="center">
   Hey there! I'm Jhon Prieto (JPArt22)
 </h2>
